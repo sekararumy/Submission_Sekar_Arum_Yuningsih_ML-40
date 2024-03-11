@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 ## DATAFRAME ##
-all_df = pd.read_csv("dashboard\main_data.csv")
+all_df = pd.read_csv("dashboard/main_data.csv")
 
 #QUESTION 1#
 def create_stations_df(df) :
