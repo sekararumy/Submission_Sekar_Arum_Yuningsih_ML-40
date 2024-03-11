@@ -9,5 +9,5 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
 ```
-streamlit run C:\Submission_Sekar_Arum_Yuningsih_ML-40\dashboard\dashboard.py
+streamlit run C:\Users\sekar\OneDrive\Dokumen\GitHub\Submission_Sekar_Arum_Yuningsih_ML-40\dashboard\dashboard.py
 ```
